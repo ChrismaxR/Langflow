@@ -18,3 +18,16 @@ Santiago Valdarrama githubpage: https://github.com/svpino
 
 ## Documentation
 Langflow Githubpage: https://github.com/langflow-ai/langflow
+
+## Steps
+
+- start venv:
+    * stable: ~/stable/. .stable_venv/bin/activate
+    * dev: to be setup 
+- start ollama: use the macOS app
+- start langflow: python -m langflow run
+
+## Dependencies
+python 3.10
+venv
+vector database -> needs to be set up
